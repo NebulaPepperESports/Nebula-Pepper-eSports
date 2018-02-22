@@ -9,8 +9,8 @@ This is the part of Nebula Pepper's official site where we tell you what events 
 ```markdown
 Events will be listed in order of events!
 
-# [March 18th 7:00 pm EST: Brawlhalla TRIX 1v1 tournaments]
-(https://discord.gg/RMBXBFR)
+# [March 18th 7:00 pm EST: Brawlhalla TRIX 1v1 tournaments](https://discord.gg/RMBXBFR/)
+
 
 thats all for now! But this list will be updated soon!
 ```
