@@ -9,17 +9,10 @@ This is the part of Nebula Pepper's official site where we tell you what events 
 ```markdown
 Events will be listed in order of events!
 
-# March 18th, 2018: Brawlhalla TRIX 1v1 tournaments!
+# [March 18th 7:00 pm EST: Brawlhalla TRIX 1v1 tournaments!](https://discord.gg/RMBXBFR)
 
 thats all for now! But this list will be updated soon!
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JellyDonitCodes/Nebula-Pepper-eSports/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Thankyou for coming and remember #Embae! :heart:
+![Image of ember](http://wiki.brawlhalla.com/images/6/61/EMBER_base_Lovestruck_Colors.png)
