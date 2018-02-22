@@ -12,7 +12,7 @@ Events will be listed in order of events!
  - [ ] [March 18th 7:00 pm EST: Brawlhalla TRIX 1v1 tournaments]
 
 
-thats all for now! But this list will be updated soon! /play nyan
+thats all for now! But this list will be updated soon!
 ```
 
 ## Thankyou for coming and remember #Embae!
