@@ -14,6 +14,6 @@ Events will be listed in order of events!
 thats all for now! But this list will be updated soon!
 ```
 
-## Thankyou for coming and remember #Embae!
+## Thankyou for coming and remember #Embae! :heart:
 ![Image of ember](http://wiki.brawlhalla.com/images/6/61/EMBER_base_Lovestruck_Colors.png)
-:heart:
+
